@@ -9,12 +9,12 @@ In this Project we have successfully operationalize a Machine Learning Microserv
 
 Project Tasks
 
-1)Create and Activate an Environment<br>
-2)Installing Docker<br>
-3)Run Lint Checks using hadolint and pylint<br>
-4)Installing kubectl and Minikube<br>
-5)Run a Container & Make a Prediction<br>
-6)Configure Kubernetes to Run Locally<br>
-7)Deploy with Kubernetes and Save Output Logs<br>
-8)CircleCI Integration<br>
+1)  Create and Activate an Environment<br>
+2)  Installing Docker<br>
+3)  Run Lint Checks using hadolint and pylint<br>
+4)  Installing kubectl and Minikube<br>
+5)  Run a Container & Make a Prediction<br>
+6)  Configure Kubernetes to Run Locally<br>
+7)  Deploy with Kubernetes and Save Output Logs<br>
+8)  CircleCI Integration<br>
 
