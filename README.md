@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/jaskaran34/Operationalize-a-ML-Microservice.svg?style=svg)](https://app.circleci.com/pipelines/github/jaskaran34/Operationalize-a-ML-Microservice/5/workflows/da097bff-e7c6-4d53-b10b-da582833e994)
+
 <include a CircleCI status badge, here>
 
 ## Project Overview
