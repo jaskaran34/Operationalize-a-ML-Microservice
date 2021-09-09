@@ -9,7 +9,7 @@ In this Project we have successfully operationalize a Machine Learning Microserv
 
 Project Tasks
 
-1)Create and Activate an Environment
+1)Create and Activate an Environment<br>
 2)Installing Docker
 3)Run Lint Checks using hadolint and pylint
 4)Installing kubectl and Minikube
